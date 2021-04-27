@@ -1,0 +1,4 @@
+name: mybienv
+channels:
+  - defaults
+prefix: C:\Users\tom-n\anaconda3\envs\mybienv

@@ -1,1 +1,2 @@
-*.yml
+environment.yml
+package-lock.json

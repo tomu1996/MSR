@@ -1,7 +1,7 @@
 environment.yml
 package-lock.json
-.ipynb_checkpoints/MSR-checkpoint.ipynb
-.ipynb_checkpoints/MSR_Jannes-checkpoint.ipynb
-.ipynb_checkpoints/MSR_Jurij-checkpoint.ipynb
+/.ipynb_checkpoints
 
 MSR_Tom.ipynb
+MSR_Jurij.ipynb
+MSR_Jannis.ipynb

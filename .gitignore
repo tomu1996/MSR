@@ -2,9 +2,11 @@ environment.yml
 package-lock.json
 /.ipynb_checkpoints
 /BI
+/data/OldData
 
 .gitignore
 MSR_Tom.ipynb
 MSR_Jurij.ipynb
 MSR_Jannis.ipynb
 MSR.ipynb
+data/OldData/.ipynb_checkpoints/list-checkpoint.txt

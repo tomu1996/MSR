@@ -3,6 +3,7 @@ package-lock.json
 /.ipynb_checkpoints
 /BI
 /data/OldData
+/data/.ipynb_checkpoints
 
 .gitignore
 MSR_Tom.ipynb
@@ -10,3 +11,7 @@ MSR_Jurij.ipynb
 MSR_Jannis.ipynb
 MSR.ipynb
 data/OldData/.ipynb_checkpoints/list-checkpoint.txt
+data/.ipynb_checkpoints/data-checkpoint.csv
+data/.ipynb_checkpoints/data_old-checkpoint.csv
+data/.ipynb_checkpoints/export1-checkpoint.csv
+data/.ipynb_checkpoints/data_old-checkpoint.csv
